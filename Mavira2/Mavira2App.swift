@@ -11,7 +11,7 @@ import SwiftUI
 struct Mavira2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           MaviraView1()
         }
     }
 }
